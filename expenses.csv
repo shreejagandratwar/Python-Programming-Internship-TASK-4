@@ -1,0 +1,6 @@
+Expense_ID,Date,Description,Amount,Category
+EXP1781168563,2026-06-11,breakfast,3000.0,Food
+EXP1781168579,2026-06-11,bus ticket,4700.0,Travel
+EXP1781168593,2026-06-11,lunch,7900.0,Food
+EXP1781168616,2026-06-11,notebook,450.0,Stationary
+EXP1781168637,2026-06-11,chips,40.0,Shopping
